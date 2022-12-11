@@ -1,0 +1,156 @@
+{
+  "background-image": [
+    "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/SingleTitle/TheTerminalList/3000x1200_Hero-Tall_NP._CB634276799_.jpg"
+  ],
+  "first-section": [
+    {
+      "id": 0,
+      "name": "Apple Iphone 13",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+      "about": {
+        "images": [
+          "https://m.media-amazon.com/images/I/71gm8v4uPBL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61-r9zOKBCL._SL1500_.jpg",
+          "https://shop.theclub.com.hk/media/catalog/product/cache/3f2912b10d0df07b005f8dcd4558e949/i/p/iphone_13_blue_pdp_image_position-1_hken_1.jpg"
+        ],
+        "desc": "All of the iPhone 13 models feature the same OLED Super Retina XDR display, which is flexible and extends right into the chassis of each device. There's a 2,000,000:1 contrast ratio for blacker blacks and brighter whites, and up to 1200 nits peak brightness for HDR photos, videos, TV shows, and movies.",
+        "originalprice": "92900",
+        "afterdiscountprice": "71150"
+      }
+    },
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "image": "https://as-images.apple.com/is/refurb-macbook-air-silver-m1-202010?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1634145618000",
+      "about": {
+        "images": [
+          "https://www.tradeinn.com/f/13787/137870852_2/apple-macbook-pro-13-m1-8gb-512gb-ssd-laptop.jpg",
+          "https://m.media-amazon.com/images/I/61L5QgPvgqL._SX522_.jpg",
+          "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mbp14-space-m1-2021_GEO_EMEA_LANG_DE?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1638575279000",
+          "https://static.compareindia.news18.com/compareindia/gallery/images/2019/jan/macbookair2018_2_210953024734.jpg",
+          "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021.jpg.og.jpg?202208152009"
+        ],
+        "desc": "MacBook Pro delivers groundbreaking processing, graphics, and machine learning (ML) performance whether running on battery or plugged in, as well as amazing battery life - enabling workflows previously unimaginable on a notebook. It also features a stunning Liquid Retina XDR display, a wide range of ports for advanced ..",
+        "originalprice": "79900",
+        "afterdiscountprice": "75800"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kesar Face Cream",
+      "image": "https://cdn.shopify.com/s/files/1/0272/4714/9155/products/natural-glow-kesar-face-cream.jpg?v=1622098457",
+      "about": {
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0279/8177/4927/products/CCWDC-bottle_pack-2019_1024x1024.png?v=1578906265",
+          "https://www.jiomart.com/images/product/600x600/590113318/himalaya-natural-glow-fairness-cream-50-g-1-20201203.jpg"
+        ],
+        "desc": "Himalaya herbals natural glow fairness cream (25g). It is an advanced skin lightening formula. Its unique formulation ensures five visible actions: lightens, Reduces dark spots, enhances glow, removes dullness, moisturizes, and softens skin.",
+        "originalprice": "560",
+        "afterdiscountprice": "349"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Kitchen Utensil Holder",
+      "image": "https://assets.epicurious.com/photos/61b92fd20a2759e9314ee7c6/master/w_1280%2Cc_limit/WSKC_2PCStainlessSteel_KitchenUtensilHolder_TOUT_VOG_final.jpg",
+      "about": {
+        "images": [
+          "https://m.media-amazon.com/images/I/71nwjzanwRL._AC_SS450_.jpg",
+          "https://static-01.daraz.pk/p/91c99453e0d54f9211cf9b79099eebe5.jpg",
+          "https://www.zwilling.com/dw/image/v2/BCGV_PRD/on/demandware.static/-/Sites-zwilling-master-catalog/default/dw23d301c9/images/large/12916-000_2.jpg?sw=1350"
+        ],
+        "desc": "A kitchen utensil that is used for several purposes, such as stirring, serving and transferring food. It has a bowl shaped head attached to a handle or the spoon may be constructed with the bowl shaped head and handle all as one piece.",
+        "originalprice": "900",
+        "afterdiscountprice": "680"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Headphone",
+      "image": "https://m.media-amazon.com/images/I/71s9FMKzr+L._SL1500_.jpg",
+      "about": {
+        "images": [
+          "https://m.media-amazon.com/images/I/51xxA+6E+xL._SL1500_.jpg",
+          "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1562927920.04897019.jpg",
+          "https://media.croma.com/image/upload/v1657777620/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/239033_eulqx4.png"
+        ],
+        "desc": "Headphones are a pair of small speakers used for listening to sound from a computer, music player or other such electronic device. Headphones originally consisted of one speaker for each ear, connected by a band over the head.",
+        "originalprice": "23000",
+        "afterdiscountprice": "18000"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Watch",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKUU3_VW_34FR+watch-44-alum-gold-nc-se_VW_34FR_WF_CO_GEO_IN?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=95&.v=1632171096000,1630708161000",
+      "about": {
+        "images": [
+          "https://m.media-amazon.com/images/I/713BLl3u37L._SX522_.jpg",
+          "https://m.media-amazon.com/images/I/71rhrO49SmL._SX522_.jpg",
+          "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MN473ref_VW_34FR+watch-44-alum-spacegray-nc-se_VW_34FR_WF_CO_GEO_GB?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1645128368602%2C1630708877000",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/F02W3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1614983429000",
+          "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-experience-for-entire-family-hero_09152020.jpg.news_app_ed.jpg"
+        ],
+        "desc": "Watches were developed in the 17th century from spring-powered clocks, which appeared as early as the 14th century. During most of its history the watch was a mechanical device, driven by clockwork, powered by winding a mainspring, and keeping time with an oscillating balance wheel.",
+        "originalprice": "12000",
+        "afterdiscountprice": "6850"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bag",
+      "image": "https://m.media-amazon.com/images/I/81mmaolsY5L._UX522_.jpg",
+      "about": {
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0485/9828/6498/products/DandenongBAG812_1024x1024.png?v=1614032832",
+          "https://m.media-amazon.com/images/I/812x12xg60L._UX569_.jpg",
+          "https://www.trespass.com/nz/media/catalog/product/cache/b63a52873233256a4b7d79d748cc7215/a/l/albus-uuacbac10004-fli-a_copy_4.jpg",
+          "https://theoutdoorscompany.co.uk/productcart/pc/catalog/albus1_1775_detail.jpg"
+        ],
+        "desc": "A bag is a kind of soft container. It can hold or carry things. It may be made from cloth, leather, plastic, or paper. Many bags are disposable but some are made to use for a long time.",
+        "originalprice": "2900",
+        "afterdiscountprice": "2290"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Stationery",
+      "image": "https://thumbs.dreamstime.com/b/stationery-glass-books-notebooks-globe-pencils-isolated-white-background-red-school-office-blue-different-174328264.jpg",
+      "about": {
+        "images": [
+          "https://4.imimg.com/data4/FX/GG/MY-13900031/stationary-designing-and-printing-service-500x500.jpg",
+          "https://media.istockphoto.com/photos/office-supplies-picture-id147041057?k=20&m=147041057&s=612x612&w=0&h=zLkfcKad8GvECR967BOV_Q-AnNUj1SrwbjShd_mMJK8="
+        ],
+        "desc": "It derives from the word 'stationer', meaning a seller of books and paper – the products that would come to be known simply as stationery. The pencil is the most common writing item but a very important stationery item, which is used by every school and organization. You can use a pencil to write or draw in school.",
+        "originalprice": "390",
+        "afterdiscountprice": "379"
+      }
+    }
+  ],
+  "second-section": [
+    {
+      "id": 0,
+      "name": "Panchayat - Season 1",
+      "image": "https://www.thefinancialexpress.com.bd/uploads/1655376498.jpg",
+      "about": {}
+    },
+    {
+      "id": 1,
+      "name": "MacBook Pro 14'inch",
+      "image": "https://m.media-amazon.com/images/I/31jA5LDJdoL._SL500_.jpg",
+      "about": {
+        "images": [
+          "https://www.tradeinn.com/f/13787/137870852_2/apple-macbook-pro-13-m1-8gb-512gb-ssd-laptop.jpg",
+          "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202206/untitled_design_37-sixteen_nine.png",
+          "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mbp14-space-m1-2021_GEO_EMEA_LANG_DE?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1638575279000",
+          "https://static.compareindia.news18.com/compareindia/gallery/images/2019/jan/macbookair2018_2_210953024734.jpg"
+        ],
+        "desc": "MacBook Pro delivers groundbreaking processing, graphics, and machine learning (ML) performance whether running on battery or plugged in, as well as amazing battery life - enabling workflows previously unimaginable on a notebook. It also features a stunning Liquid Retina XDR display, a wide range of ports for advanced connectivity, a 1080p FaceTime HD camera, and great audio system.",
+        "price": "110990",
+        "star": "5"
+      }
+    }
+  ],
+  "cart-list": []
+}
